@@ -119,7 +119,6 @@ If you get a database locked error:
 
 If the beta test goes well, potential enhancements:
 - Add .doc support (install antiword)
-- Add LibreOffice format support (install LibreOffice)
 - Advanced search syntax
 - Highlight matches in preview
 - Export results
