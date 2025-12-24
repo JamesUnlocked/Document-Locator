@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Search Engine</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Document Search Engine</h1>
+            <p class="subtitle">Search across all your documents</p>
+        </header>
+
+        <main>
+            <section class="index-section">
+                <index-controls></index-controls>
+            </section>
+
+            <section class="search-section">
+                <search-bar></search-bar>
+            </section>
+
+            <section class="results-section">
+                <results-table></results-table>
+            </section>
+
+            <section class="preview-section">
+                <file-preview></file-preview>
+            </section>
+        </main>
+    </div>
+
+    <script type="module" src="/static/js/main.js"></script>
+</body>
+
+</html>
