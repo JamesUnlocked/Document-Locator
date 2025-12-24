@@ -48,9 +48,9 @@ Then open your browser to: http://127.0.0.1:5000
 
 ## 📝 How to Test
  ### First make a ``` test_documents``` dir and make three plain text files that have sentences that include the following words:
-  -Flask
-  -Search
-  -Python
+  - Flask
+  - Search
+  - Python
 1. **Index Documents:**
    - In the "Index Directory" field, enter: `C:\test_documents`
    - Click "Index Directory"
@@ -65,12 +65,7 @@ Then open your browser to: http://127.0.0.1:5000
    - Click any row in the results table
    - Full file content appears in the preview pane
 
-## 🧪 Test Documents
 
-Sample test documents were created in `C:\test_documents\`:
-- test1.txt - Contains: Python, programming
-- test2.txt - Contains: Flask, SQLite, databases
-- test3.txt - Contains: search engines, information
 
 ## 📋 Supported File Formats
 
