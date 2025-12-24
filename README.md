@@ -75,10 +75,11 @@ Then open your browser to: http://127.0.0.1:5000
 - .docx (via python-docx)
 - .rtf (via striprtf)
 - .html, .htm (via BeautifulSoup)
+- .odt, .ods, .odp
 
 ⚠️ Partially Working:
 - .doc (requires antiword or catdoc - not installed)
-- .odt, .ods, .odp (requires LibreOffice - not installed)
+
 
 ## 🔧 If You Need to Recompile TypeScript
 
