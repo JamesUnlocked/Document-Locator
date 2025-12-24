@@ -47,7 +47,10 @@ python app.py
 Then open your browser to: http://127.0.0.1:5000
 
 ## 📝 How to Test
-
+ ### First make a ``` test_documents``` dir and make three plain text files that have sentences that include the following words:
+  -Flask
+  -Search
+  -Python
 1. **Index Documents:**
    - In the "Index Directory" field, enter: `C:\test_documents`
    - Click "Index Directory"
